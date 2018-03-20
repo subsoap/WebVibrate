@@ -1,0 +1,9 @@
+[input]
+game_binding = /example/input.input_bindingc
+
+[project]
+title = WebVibrate
+
+[bootstrap]
+main_collection = /example/main.collectionc
+
